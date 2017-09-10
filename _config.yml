@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Automate Agility - DevOps Coach, Engineer, Continuous Learner and Explorer
+title: Automate Agility - DevOps Coach, Engineer, Continuous Learner and Technology Explorer
 email: eric.the.starr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   AutomateAgility.com is dedicated to the learning and teaching of DevOps
@@ -27,18 +27,11 @@ github_username:  starrman777
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude: ['README.md']
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: ['README.md','Gemfile','Gemfile.lock']
