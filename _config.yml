@@ -27,7 +27,7 @@ github_username:  starrman777
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
