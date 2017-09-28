@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Automate Agility - Your DevOps Sherpa
+title: Automate Agility - DevOps Engineer, Educator and Innovator
 email: eric.the.starr@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  AutomateAgility.com is navigating the rough terrain of DevOps and passing along
-  the lessons learned. Learning is a journey and not a destination.
+  AutomateAgility.com by Eric Starr
+  DevOps Engineer and Architect
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://automateagility.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericjstarr
