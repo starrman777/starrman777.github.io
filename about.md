@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Automate Agility is brought to you by Eric Starr.
+![Eric Starr](/images/about/Eric3.jpg)
 
   Eric has over 21 years experience in IT.  His first 12 years was as a Java Web Application Developer.  The
   last 9 years, Eric has taken his development background and applied it in the area of Continuous Integration
