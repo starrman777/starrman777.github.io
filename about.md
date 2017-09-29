@@ -18,10 +18,7 @@ Automate Agility is brought to you by Eric Starr.
   Eric is on a never-ending journey of learning, applying and then teaching the best practices related to 
   DevOps.  There is no better way to learn something than to do it and then teach it.<br><br>
   
-  Eric specialty is applying DevOps technical practices at an enterprise level.  It's a lot easier to introduce changes 
-  in behavior, quality standards and best practices into a development team at a small startup.  It's
-  a lot more challenging applying similar behaviors and quality standards across a large enterprise with varying technical
-  skills and varying beliefs about delivering quality software to customers.
+  Eric specialty is applying DevOps technical practices at an enterprise level.
 
 Eric's current interests and areas of focus are:
 * Jenkins and Jenkins Pipeline as Code
