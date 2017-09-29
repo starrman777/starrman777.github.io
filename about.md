@@ -11,9 +11,9 @@ Automate Agility is brought to you by Eric Starr.
   last 9 years, Eric has taken his development background and applied it in the area of Continuous Integration
   and Continuous Delivery.<br><br>
   
-  Today Eric is working for a large healthcare company where he leads a team of Jenkins subject matter 
-  experts that create a library of reusable methods that all internal development teams can use to rapidly build out
-  their CI/CD pipelines.  This is called Jenkins Pipeline as Code or JPaC.
+  Today Eric is working for a large healthcare company where he leads an innersource team of Jenkins subject matter 
+  experts.  This team has created a library of reusable Groovy methods that enable internal development teams to rapidly build out
+  their CI/CD pipelines.  This is called Jenkins Pipeline as Code Global Pipeline Library or JPaC GPL.
 
   Eric is on a never-ending journey of learning, applying and then teaching the best practices related to 
   DevOps.  There is no better way to learn something than to do it and then teach it.<br><br>
