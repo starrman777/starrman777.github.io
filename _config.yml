@@ -16,7 +16,7 @@
 title: Automate Agility - DevOps Engineer, Educator and Innovator
 email: eric (dot) the (dot) starr (at) gmail (dot) com
 description: > # this means to ignore newlines until "baseurl:"
-  AutomateAgility.com by Eric Starr
+  AutomateAgility.com by Eric Starr,
   DevOps Engineer and Architect
  
 baseurl: "" # the subpath of your site, e.g. /blog
