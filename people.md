@@ -1,7 +1,8 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Jenkins Pipeline as Code Discussion Group
+permalink: /ryver/
 ---
 
-These are people I know that I want to draw attention to for one reason or another.
+Come and join the discussion about Jenkins Pipeline as Code<br>
+[Ryver AutomateAgility Signup link](https://automateagility.ryver.com/application/signup/members/oPhnw8cArnuNZbL) (Ryver is similar to Slack)
