@@ -5,4 +5,4 @@ permalink: /ryver/
 ---
 
 Come and join the discussion about Jenkins Pipeline as Code<br>
-[Ryver AutomateAgility Signup link](https://automateagility.ryver.com/application/signup/members/oPhnw8cArnuNZbL) (similar to Slack)
+[Ryver AutomateAgility Signup link](https://automateagility.ryver.com/application/signup/members/oPhnw8cArnuNZbL) (Ryver is similar to Slack)
