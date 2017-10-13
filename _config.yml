@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://automateagility.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericjstarr
 github_username:  starrman777
+ryver_signup_link: https://automateagility.ryver.com/application/signup/members/oPhnw8cArnuNZbL
 
 # Build settings
 markdown: kramdown
